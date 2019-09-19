@@ -1,2 +1,2 @@
-# object_oriented_programming
-Istanbul Technical University BLG252E Object Oriented Programming Course Projects
+# Object Oriented Programming Course Projects
+Istanbul Technical University Object Oriented Programming Course (BLG252E) Projects
